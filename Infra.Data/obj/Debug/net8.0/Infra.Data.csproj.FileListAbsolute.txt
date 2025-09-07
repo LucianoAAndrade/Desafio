@@ -1,0 +1,17 @@
+E:\Projeto\DesafioOpea\DesefioOpea\Infra.Data\obj\Debug\net8.0\Infra.Data.csproj.AssemblyReference.cache
+E:\Projeto\DesafioOpea\DesefioOpea\Infra.Data\obj\Debug\net8.0\Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projeto\DesafioOpea\DesefioOpea\Infra.Data\obj\Debug\net8.0\Infra.Data.AssemblyInfoInputs.cache
+E:\Projeto\DesafioOpea\DesefioOpea\Infra.Data\obj\Debug\net8.0\Infra.Data.AssemblyInfo.cs
+E:\Projeto\DesafioOpea\DesefioOpea\Infra.Data\obj\Debug\net8.0\Infra.Data.csproj.CoreCompileInputs.cache
+E:\Projeto\DesafioOpea\DesefioOpea\Infra.Data\bin\Debug\net8.0\Infra.Data.deps.json
+E:\Projeto\DesafioOpea\DesefioOpea\Infra.Data\bin\Debug\net8.0\Infra.Data.dll
+E:\Projeto\DesafioOpea\DesefioOpea\Infra.Data\bin\Debug\net8.0\Infra.Data.pdb
+E:\Projeto\DesafioOpea\DesefioOpea\Infra.Data\bin\Debug\net8.0\Domain.dll
+E:\Projeto\DesafioOpea\DesefioOpea\Infra.Data\bin\Debug\net8.0\Domain.pdb
+E:\Projeto\DesafioOpea\DesefioOpea\Infra.Data\obj\Debug\net8.0\Infra.Data.csproj.Up2Date
+E:\Projeto\DesafioOpea\DesefioOpea\Infra.Data\obj\Debug\net8.0\Infra.Data.dll
+E:\Projeto\DesafioOpea\DesefioOpea\Infra.Data\obj\Debug\net8.0\refint\Infra.Data.dll
+E:\Projeto\DesafioOpea\DesefioOpea\Infra.Data\obj\Debug\net8.0\Infra.Data.pdb
+E:\Projeto\DesafioOpea\DesefioOpea\Infra.Data\obj\Debug\net8.0\ref\Infra.Data.dll
+E:\Projeto\DesafioOpea\DesefioOpea\Infra.Data\bin\Debug\net8.0\Infra.Data.runtimeconfig.json
+E:\Projeto\DesafioOpea\DesefioOpea\Infra.Data\obj\Debug\net8.0\Infra.Data.genruntimeconfig.cache

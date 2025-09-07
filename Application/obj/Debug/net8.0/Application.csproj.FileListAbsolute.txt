@@ -1,0 +1,15 @@
+E:\Projeto\DesafioOpea\DesefioOpea\Application\bin\Debug\net8.0\Application.deps.json
+E:\Projeto\DesafioOpea\DesefioOpea\Application\bin\Debug\net8.0\Application.dll
+E:\Projeto\DesafioOpea\DesefioOpea\Application\bin\Debug\net8.0\Application.pdb
+E:\Projeto\DesafioOpea\DesefioOpea\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+E:\Projeto\DesafioOpea\DesefioOpea\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projeto\DesafioOpea\DesefioOpea\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+E:\Projeto\DesafioOpea\DesefioOpea\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+E:\Projeto\DesafioOpea\DesefioOpea\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+E:\Projeto\DesafioOpea\DesefioOpea\Application\obj\Debug\net8.0\Application.dll
+E:\Projeto\DesafioOpea\DesefioOpea\Application\obj\Debug\net8.0\refint\Application.dll
+E:\Projeto\DesafioOpea\DesefioOpea\Application\obj\Debug\net8.0\Application.pdb
+E:\Projeto\DesafioOpea\DesefioOpea\Application\obj\Debug\net8.0\ref\Application.dll
+E:\Projeto\DesafioOpea\DesefioOpea\Application\bin\Debug\net8.0\Domain.dll
+E:\Projeto\DesafioOpea\DesefioOpea\Application\bin\Debug\net8.0\Domain.pdb
+E:\Projeto\DesafioOpea\DesefioOpea\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date

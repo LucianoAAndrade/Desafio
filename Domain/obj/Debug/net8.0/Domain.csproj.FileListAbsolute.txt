@@ -1,0 +1,12 @@
+E:\Projeto\DesafioOpea\DesefioOpea\Domain\bin\Debug\net8.0\Domain.deps.json
+E:\Projeto\DesafioOpea\DesefioOpea\Domain\bin\Debug\net8.0\Domain.dll
+E:\Projeto\DesafioOpea\DesefioOpea\Domain\bin\Debug\net8.0\Domain.pdb
+E:\Projeto\DesafioOpea\DesefioOpea\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+E:\Projeto\DesafioOpea\DesefioOpea\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projeto\DesafioOpea\DesefioOpea\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+E:\Projeto\DesafioOpea\DesefioOpea\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+E:\Projeto\DesafioOpea\DesefioOpea\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+E:\Projeto\DesafioOpea\DesefioOpea\Domain\obj\Debug\net8.0\Domain.dll
+E:\Projeto\DesafioOpea\DesefioOpea\Domain\obj\Debug\net8.0\refint\Domain.dll
+E:\Projeto\DesafioOpea\DesefioOpea\Domain\obj\Debug\net8.0\Domain.pdb
+E:\Projeto\DesafioOpea\DesefioOpea\Domain\obj\Debug\net8.0\ref\Domain.dll

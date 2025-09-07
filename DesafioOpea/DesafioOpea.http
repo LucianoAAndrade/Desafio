@@ -1,0 +1,6 @@
+@DesafioOpea_HostAddress = http://localhost:5157
+
+GET {{DesafioOpea_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

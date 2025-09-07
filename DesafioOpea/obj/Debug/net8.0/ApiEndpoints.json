@@ -1,0 +1,86 @@
+[
+  {
+    "ContainingType": "DesafioOpea.Controllers.EmprestimoController",
+    "Method": "Get",
+    "RelativePath": "api/Emprestimo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DesafioOpea.Controllers.EmprestimoController",
+    "Method": "Post",
+    "RelativePath": "api/Emprestimo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Application.Requests.Emprestimo.PostEmprestimoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DesafioOpea.Controllers.EmprestimoController",
+    "Method": "Put",
+    "RelativePath": "api/Emprestimo",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Application.Requests.Emprestimo.PutEmprestimoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DesafioOpea.Controllers.LivroController",
+    "Method": "Get",
+    "RelativePath": "api/Livro",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DesafioOpea.Controllers.LivroController",
+    "Method": "Post",
+    "RelativePath": "api/Livro",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Application.Requests.Livros.PostLivroRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DesafioOpea.Controllers.LivroController",
+    "Method": "Get",
+    "RelativePath": "api/Livro/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
