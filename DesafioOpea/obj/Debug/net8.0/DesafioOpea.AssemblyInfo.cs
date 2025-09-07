@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesafioOpea")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+207cba2a260c207bf5334371916704d232bfbae7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4cf51d2227a70607d743b527a4db107b03302e44")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesafioOpea")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesafioOpea")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
