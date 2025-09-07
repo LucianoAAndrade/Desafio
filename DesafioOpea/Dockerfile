@@ -13,9 +13,9 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
 COPY ["DesafioOpea/DesafioOpea.csproj", "DesafioOpea/"]
-COPY ["Infra.CossCutting.Ioc/Infra.CossCutting.Ioc.csproj", "Infra.CossCutting.Ioc/"]
 COPY ["Application/Application.csproj", "Application/"]
 COPY ["Domain/Domain.csproj", "Domain/"]
+COPY ["Infra.CossCutting.Ioc/Infra.CossCutting.Ioc.csproj", "Infra.CossCutting.Ioc/"]
 COPY ["Infra.Data/Infra.Data.csproj", "Infra.Data/"]
 RUN dotnet restore "./DesafioOpea/DesafioOpea.csproj"
 COPY . .
